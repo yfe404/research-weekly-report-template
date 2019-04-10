@@ -1,1 +1,9 @@
-research-weekly-report-template
+* Research-Weekly-Report-Template
+
+
+** How to use
+
+Copy the file =Makefile.example= to =Makefile=.
+Edit if necessary.
+Use =make= to compile the source files and generate the =.pdf= file.
+If needed clean the workspace with the command =make clean=. 

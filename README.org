@@ -1,9 +1,15 @@
 * Research-Weekly-Report-Template
 
+** Structure
+
+The report is divided in sections, one latex file per section.
+The file =report.tex= is the main file and includes all the latex files.
+If you know at least a bit of latex, you should understand everything in less than 30 seconds by just looking at the source files.
+
 
 ** How to use
 
-Copy the file =Makefile.example= to =Makefile=.
-Edit if necessary.
-Use =make= to compile the source files and generate the =.pdf= file.
-If needed clean the workspace with the command =make clean=. 
+- Copy the file =Makefile.example= to =Makefile=. Edit if necessary.
+- Use =make= to compile the source files and generate the =.pdf= file.
+- If needed clean the workspace with the command =make clean=. 
+
